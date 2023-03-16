@@ -1,2 +1,5 @@
-package chambre.earthquakes;public class FeatureCollection {
+package chambre.earthquakes;
+
+public class FeatureCollection {
+    Feature[] features;
 }
